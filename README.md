@@ -1,3 +1,4 @@
+# This is a Trial Repo
 # Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D
 
 Official codebase for the `Locate-3D` models, the `3D-JEPA` encoders, and the `Locate 3D Dataset`.
